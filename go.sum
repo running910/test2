@@ -4,6 +4,8 @@ github.com/running910/gokit v0.0.4 h1:4CMwrFeCVLChVt01U1DJem6Dpw4ix/GKZBrKrGrYo/
 github.com/running910/gokit v0.0.4/go.mod h1:J+lzpEnl9nwlNXR4dKIjaHuJMwroBG+vPcNP8MlUkPk=
 github.com/running910/gokit v0.0.5 h1:JNdfNVpWhzXqOeUkShOBWhUGrJbvXelFo9lUQlriHCU=
 github.com/running910/gokit v0.0.5/go.mod h1:J+lzpEnl9nwlNXR4dKIjaHuJMwroBG+vPcNP8MlUkPk=
+github.com/running910/gokit v1.0.0 h1:Rb/Iknega/Jk9DRy1ejnxNZJXMwTh4IyOb8rTKgzsnU=
+github.com/running910/gokit v1.0.0/go.mod h1:J+lzpEnl9nwlNXR4dKIjaHuJMwroBG+vPcNP8MlUkPk=
 github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
 go.uber.org/goleak v1.2.0 h1:xqgm/S+aQvhWFTtR0XK3Jvg7z8kGV8P4X14IzwN3Eqk=
 go.uber.org/multierr v1.10.0 h1:S0h4aNzvfcFsC3dRF1jLoaov7oRaKqRGC/pUEJ2yvPQ=

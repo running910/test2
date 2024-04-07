@@ -2,7 +2,7 @@ module github.com/running910/test2
 
 go 1.19
 
-require github.com/running910/gokit v0.0.4
+require github.com/running910/gokit v1.0.0
 
 require (
 	go.uber.org/multierr v1.10.0 // indirect
